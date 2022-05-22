@@ -1,10 +1,10 @@
-# MiniDecaf Python 框架
+# MiniDecaf Python
 
 ## 依赖
 
 - **Python >= 3.9**
 - requirements.txt 里的 python 库，包括 ply 和 argparse。
-- RISC-V 运行环境（参见实验指导书）
+- RISC-V 运行环境
 
 ## 运行
 
